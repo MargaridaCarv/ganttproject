@@ -2,4 +2,4 @@ Code Smell 1: Reviewed by Carolina Simonet 59748, it's correct.
 
 Code Smell 2: Reviewed and approved by Rui Capareira 57046.
 
-Code Smell 3:
+Code Smell 3: Jaime Russo 60062 approved this satatement :)
